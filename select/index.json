@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "平行線の美学",
+  "base_artist": "コメティック",
+  "createdAt": "2026-02-12T17:01:07.329087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "平行線の美学",
+      "artist": "コメティック",
+      "has_synced": true,
+      "path": "select/01_平行線の美学_コメティック.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "平行線の美学",
+      "artist": "コメティック (川口莉奈, 三川華月, 小澤麗那)",
+      "has_synced": true,
+      "path": "select/02_平行線の美学_コメティック_(川口莉奈,_三川華月,_小澤麗那).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平行線の美学",
+      "artist": "コメティック",
+      "has_synced": false,
+      "path": "select/pl_01_平行線の美学_コメティック.txt"
+    }
+  ]
+}
